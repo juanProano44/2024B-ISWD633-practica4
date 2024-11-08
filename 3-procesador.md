@@ -10,7 +10,8 @@ Asignar núcleos de CPU específicos:
 ```
 
 **¿Como saber el numero de procesadores virtuales que tiene una máquina?**
-## COMPLETAR
+
+Para saber el número se usa el comando nproc, por "ejemplo docker run --rm centos:7 nproc" teniendo como resultado que se usan 4 procesadores
 
 ## Ejemplos
 _Puedes copiar y ejecutar directamente cada uno de los comandos_
