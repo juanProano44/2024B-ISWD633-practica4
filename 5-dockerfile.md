@@ -57,10 +57,11 @@ No olvides verificar en qué directorio se encuentra el archivo Dockerfile
 ```
 
 **¿Cuántos pasos se han ejecutado?**
-# RESPONDER 
+Al ser una solución diferente, se han ejecutado unicamente 3 pasos. En el otro caso se ejecutaban 4 pasos pero al no ser funcional, se dejo de usar esta solución
 
 ### Inspeccionar la imagen creada
-# COMPLETAR CON UNA CAPTURA
+![image](https://github.com/user-attachments/assets/2c5e712a-a92b-47cb-93c9-79309bf2d41a)
+
 
 **Modificar el archivo index.html para incluir su nombre y luego crear una nueva versión de la imagen anterior**
 **¿Cuántos pasos se han ejecutado? ¿Observa algo diferente en la creación de la imagen**
